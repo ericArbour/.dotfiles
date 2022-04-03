@@ -1,0 +1,6 @@
+require "user.cmp"
+require "user.colorschemes"
+require "user.keymaps"
+require "user.lsp"
+require "user.options"
+require "user.plugins"
